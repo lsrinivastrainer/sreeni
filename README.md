@@ -4,9 +4,9 @@
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/srinivas-lukka/" target="_blank" rel="noreferrer">Sreenivas</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/srinivas-lukka/" target="_blank" rel="noreferrer">Sreenivas Lukka</a> 👋</h3>
 
-<h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
+<h2 align="center">I'm a Manager - Automation Testing 💻</h2>
 
 ### 🤝 Connect with me:
 
@@ -80,7 +80,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:srinivastrainer4@gmail.com">srinivastrainer4@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:srinivastrainer4@gmail.com">srinivastrainer4@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/srinivas-lukka/">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivas-lukka/">
