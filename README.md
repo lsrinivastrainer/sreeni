@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/srinivas-lukka/" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/file/d/13c5u_JvocLQ9UDEwjyOT_AEoPejXhwNQ/view" alt="My banner">
+    <img src="https://github.com/lsrinivastrainer/sreeni/blob/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
